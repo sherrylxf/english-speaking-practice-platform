@@ -1,5 +1,7 @@
 # 🎙️ English Speaking Practice Platform
 
+> 同济大学 用户交互技术课程
+
 ![icon.png](vue-frontend/public/icon.png)
 
 - A modern web application for practicing English speaking skills.
